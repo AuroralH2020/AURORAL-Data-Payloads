@@ -1,0 +1,25 @@
+{
+  "@context" : "https://auroralh2020.github.io/auroral-ontology-contexts/tour/context.json",
+  "identifier" : "e915744b-a34f-4dfc-ac16-6ed9db92f5b0",
+  "hidden_description" : "a sample description that is hidden",
+  "long_description" : "a long description",
+  "short_description" : "a short description",
+  "bookable" : true,
+  "starts" : "13/09/2022",
+  "ends" : "14/09/2022",
+  "title" : "A sample activity tour",
+  "description" : "a sample description of the activity",
+  "last_modification" : "13/09/2022",
+  "rights" : "A sample text for the rights",
+  "location" : {
+    "lat" : 40.405807,
+    "long" : -3.717628,
+    "alt" : 1000
+  },
+  "channels" : [ {"name" : "twitter"}, {"name" : "facebook" } ],
+  "difficulty" : "easy",
+  "price" : {
+    "amount" : 33, "currency" : "€" 
+  },
+  "cover" : { "img" : "https://www.shutterstock.com/search/sampling", "thumbnail" : { "img" : "https://www.shutterstock.com/search/sampling"} }
+}
