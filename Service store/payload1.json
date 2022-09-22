@@ -1,0 +1,18 @@
+{
+  "@context":"https://raw.githubusercontent.com/AuroralH2020/auroral-ontology-contexts/main/core/services.json",
+  "name":"Tourism monitor",
+  "service_description":"Person counter",
+  "provider":"BOSONIT",
+  "status":"Available",
+  "modified":"2021-11-09T18:25:43.511Z",
+  "domain":"Mobility",
+  "subdomain":"Fly",
+  "functionalities":"Only read",
+  "requirements":"The date to read the persons",
+  "is_free":true,
+  "url":"http://rur.tourism.com/itisveryimportant/birds",
+  "downloaded": 1,
+  "version":"1.4",
+  "language":"spa",
+  "place":"Spain"
+}
