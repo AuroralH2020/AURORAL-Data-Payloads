@@ -1,5 +1,5 @@
 {
-  "@context":"https://raw.githubusercontent.com/AuroralH2020/auroral-ontology-contexts/main/core/services.json",
+  "@context":"https://auroralh2020.github.io/auroral-ontology-contexts/core/services.json",
   "name":"Tourism monitor",
   "service_description":"Person counter",
   "provider":"BOSONIT",
