@@ -1,0 +1,16 @@
+{
+  "@context" : "https://auroralh2020.github.io/auroral-ontology-contexts/adapters/context.json",
+  "id" : "light.luces_oficina",
+  "@type":"lightbulb",
+  "measurement" : [{
+    "timestamp":"2023-01-22T17:35:24.203819+00:00",
+    "value":"46",
+    "type":"integer",
+    "property":"illuminance"
+  },{
+    "timestamp":"2023-01-22T17:35:24.203819+00:00",
+    "value":"287",
+    "type":"integer",
+    "property":"lightcolor"
+  }]
+}
