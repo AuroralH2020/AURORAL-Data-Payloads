@@ -1,0 +1,24 @@
+{
+  "@context":"https://auroralh2020.github.io/auroral-ontology-contexts/cellTowers/context.json",
+  "cellId":"111",
+  "created": "1223",
+  "hasRange":{
+    "range":"1000"
+  },
+  "hasOperator":{
+    "operatorId":"",
+    "operatorName":""
+  },
+  "country":{
+    "code":"1111",
+    "name":"uk"
+  },
+  "location":{
+    "lat":"12.1323",
+    "long":"34.123123"
+  },
+  "providesNetwork":{
+    "@type":"LTE",
+    "networkCode":"RandomCode"
+  }
+}
