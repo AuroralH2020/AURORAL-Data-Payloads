@@ -1,0 +1,54 @@
+{
+  "@context": "https://auroralh2020.github.io/auroral-ontology-contexts/biomass/catalogue.json",
+  "id": "7d066f83-ad18-4147-9b05-cbf884c86518",
+  "name": "Briquettes",
+  "tradingForm": "null",
+  "dimension": "null",
+  "primaryEnergyCost": "null",
+  "primaryEnergyCostObs": "null",
+  "pciKwhPerKg": 4.85,
+  "pcimjPerKg": 17.46,
+  "origin": {
+    "id": "4f914b83-9d10-4df7-a15f-a329ae2a7751",
+    "description": "",
+    "name": "BriquettesOrigin",
+    "group": {
+      "WoodyBiomass": {
+        "id": "1",
+        "description": "",
+        "name": "Woody Biomass"
+      }
+    },
+    "subgroup": {
+      "ForestPlantationAndOtherVirginWood": {
+        "id": "1",
+        "description": "",
+        "name": "Forest Plantation And Other Virgin Wood"
+      }
+    },
+    "type": {
+      "WhooleTreesWithoutRoots": {
+        "id": "1",
+        "description": "",
+        "name": "Whoole Trees Without Roots"
+      }
+    },
+    "subtype": {
+      "BlendsAndMixtures": {
+        "id": "5",
+        "decsription": "",
+        "name": "Blends And Mixtures"
+      }
+    }
+  },
+  "humidity": {
+    "id": "81813d27-d816-4a6e-971f-ba56c0b21089",
+    "decsription": "<=10%% humidity, as per ISO 18134-1, ISO 18134-2",
+    "name": "M10"
+  },
+  "aches": {
+    "id": "9798c5a9-73da-4dc5-bae4-11baa990a00e",
+    "decsription": "<=0.5%% ashes, as per ISO 18122",
+    "name": "A0.5"
+  }
+}

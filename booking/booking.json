@@ -1,5 +1,5 @@
 {
-  "@context": "https://github.com/AuroralH2020/auroral-ontology-contexts/blob/main/booking/context.json",
+  "@context": "https://auroralh2020.github.io/auroral-ontology-contexts/booking/context.json",
   "id": "538824",
   "created": "2020-02-25T15:26:56.269446+01:00",
   "reservation_start": "2020-02-25T15:00:00+01:00",
