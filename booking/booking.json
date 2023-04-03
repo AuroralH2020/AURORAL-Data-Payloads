@@ -1,0 +1,42 @@
+{
+  "@context": "https://github.com/AuroralH2020/auroral-ontology-contexts/blob/main/booking/context.json",
+  "id": "538824",
+  "created": "2020-02-25T15:26:56.269446+01:00",
+  "reservation_start": "2020-02-25T15:00:00+01:00",
+  "reservation_end": "2020-02-25T17:00:00+01:00",
+  "buffered_end": "2020-02-25T17:00:00+01:00",
+  "state": "closed",
+  "lift_offer": false,
+  "note": "",
+  "purpose": "",
+  "user": {
+    "name": "Christian Sutterlüty",
+    "id": "16992",
+    "first_name": "Christian",
+    "last_name": "Sutterlüty",
+    "email": "christian.sutterluety@carusocarsharing.com",
+    "contact_mail": "christian.sutterluety@carusocarsharing.com",
+    "occupation": "",
+    "status": "",
+    "creation_date": "",
+    "address": {
+      "address": "",
+      "city": "Dornbirn",
+      "zip": "6850"
+    }
+  },
+
+  "vehicle": {
+    "id": "951",
+    "type": "[RAD1 - LCT] ILOCKIT",
+    "label": "[RAD1 - LCT]",
+    "brand": "ILOCKIT",
+    "model": "PLUS Testschloss",
+    "timezone": "Europe/Vienna",
+    "address": {
+      "address": "Färbergasse 17b",
+      "city": "Teststand",
+      "zip": "6850"
+    }
+  }
+}
