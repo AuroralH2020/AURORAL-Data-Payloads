@@ -1,0 +1,18 @@
+{
+  "@context": "https://auroralh2020.github.io/auroral-ontology-contexts/marketplace/marketcontext.json",
+  "identifier": "3",
+  "name": "Juan",
+  "buy": {
+    "productId": "23467",
+    "productname": "Briquettes",
+    "quantity": {
+      "stockId": "12",
+      "stockQuantity": "156 kg"
+    },
+    "category": {
+      "categoryId": "4",
+      "categoryName": "Biomass",
+      "categoryType": "1"
+    }
+  }
+}
