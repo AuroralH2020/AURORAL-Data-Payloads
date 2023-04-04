@@ -1,0 +1,8 @@
+{
+  "@context": "https://auroralh2020.github.io/auroral-ontology-contexts/priv/contextPrivacy.json",
+  "rule": {
+    "action": "accessibility",
+    "target": "movie"
+  },
+  "item": "Service1"
+}
