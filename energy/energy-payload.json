@@ -1,5 +1,5 @@
 {
-  "@context":"https://raw.githubusercontent.com/AuroralH2020/auroral-ontology-contexts/main/energy/energyprice.json",
+  "@context":"https://auroralh2020.github.io/auroral-ontology-contexts/energy/energyprice.json",
   "hasValue":"1.18",
   "isMeasuredIn":"megawattHour",
   "inCurrency":"EUR",
