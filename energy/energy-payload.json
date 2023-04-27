@@ -1,0 +1,10 @@
+{
+  "@context":"https://auroralh2020.github.io/auroral-ontology-contexts/energy/energyprice.json",
+  "hasValue":"1.18",
+  "isMeasuredIn":"megawattHour",
+  "inCurrency":"EUR",
+  "hasTemporalEntity":{
+    "after":"2023-04-09T10:00:00",
+    "before":"2023-04-09T11:00:00"
+  }
+}
