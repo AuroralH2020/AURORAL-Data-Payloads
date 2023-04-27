@@ -1,0 +1,30 @@
+{
+  "@context": "https://auroralh2020.github.io/auroral-ontology-contexts/mobility/mobility-context.json",
+  "id": "NSR:StopPlace:548",
+  "name": "Bergen stasjon",
+  "estimatedcall": {
+    "date": "2023-02-27",
+    "boarding": "true",
+    "alighting": "39",
+    "quay": {
+      "id": "NSR:Quay:901"
+    },
+    "destination": {
+      "front-Text": "Arna"
+    },
+    "scheduledtime": {
+      "aimed-arrival": "2023-02-27T22:01:00+01:00",
+      "expected-arrival": "2023-02-27T23:01:00+01:00",
+      "actual-arrival": "null"
+    },
+    "service": {
+      "pattern": {
+        "line": {
+          "id": "VYG:Line:43",
+          "name": "Bergen-Arna",
+          "transportmode": "bus"
+        }
+      }
+    }
+  }
+}
