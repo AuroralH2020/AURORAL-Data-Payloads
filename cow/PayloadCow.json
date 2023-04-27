@@ -1,0 +1,18 @@
+{
+  "@context": " https://auroralh2020.github.io/auroral-ontology-contexts/cow/contextCow.json",
+  "id": "491",
+  "birth": "1601-01-01",
+  "group": "1",
+  "breeding": "RedSpottedCow",
+  "activity": {
+    "proabilityOfHighActivity": "48%",
+    "relativeActivity": "96"
+  },
+  "lactation": {
+    "lactationDays": "307"
+  },
+  "status": "Pregnant",
+  "Pregnant": {
+    "Insemination": "178"
+  }
+}
