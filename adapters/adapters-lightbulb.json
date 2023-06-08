@@ -13,6 +13,9 @@
     "value":"287",
     "type":"integer",
     "property":"lightcolor",
-    "isMeasuredIn":"lux"
+    "isMeasuredIn":"lux", 
+    "readability":{
+      "value": 1
+    }
   }]
 }
