@@ -1,0 +1,31 @@
+{
+  "@context": "https://auroralh2020.github.io/auroral-ontology-contexts/shipment/shipment.json",
+  "identifier": "12343",
+  "inShipment": {
+    "identifier": "ship234",
+    "createdTime": "12-3-5T10:12:45",
+    "personCount": 2,
+    "address": {
+      "address": "street2-Spain",
+      "apartemnet": "14",
+      "postal": " 3080",
+      "city": "Madrid"
+    },
+    "price": {
+      "amount": "15",
+      "inCurrency": "EUR"
+    },
+    "time": [
+      {
+        "@type": "PickupTime",
+        "dateStart": "12-6-23T12:34:56",
+        "dateStop": "12-7-23T12:34:56"
+      },
+      {
+        "@type": "DeliveryTime",
+        "dateStart": "12-6-23T12:34:56",
+        "dateStop": "12-7-23T12:34:56"
+      }
+    ]
+  }
+}
