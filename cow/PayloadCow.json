@@ -1,5 +1,5 @@
 {
-  "@context": " https://auroralh2020.github.io/auroral-ontology-contexts/cow/contextCow.json",
+  "@context": "https://auroralh2020.github.io/auroral-ontology-contexts/cow/contextCow.json",
   "id": "491",
   "birth": "1601-01-01",
   "group": "1",
