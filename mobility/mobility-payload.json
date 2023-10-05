@@ -1,5 +1,5 @@
 {
-  "@context": "https://auroralh2020.github.io/auroral-ontology-contexts/mobility/mobility-context.json",
+  "@context": "https://auroralh2020.github.io/auroral-ontology-contexts/mobility/context.json",
   "id": "NSR:StopPlace:548",
   "name": "Bergen stasjon",
   "estimatedcall": {
